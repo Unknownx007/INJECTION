@@ -16,7 +16,7 @@ Presented by **DEDSEC COMMUNITY**
         '"""""""""""""""""""""""""""""""""""` 
 
  ┌─────────────────────────────────────────────────────────────────────────────┐
- │ [💬 DEDSEC SYSTEM HUMOR]:                                                    │
+ │ [💬 DEDSEC SYSTEM HUMOR]:                                                   │
  │ "Why do security nodes hate nature? There are too many bugs inside the      │
  │ system partition loops."                                                    │
  └─────────────────────────────────────────────────────────────────────────────┘
